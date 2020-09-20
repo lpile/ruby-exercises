@@ -1,4 +1,4 @@
-# Ruby Exercises
+# Ruby Exercises (Cloned 9/2020)
 
 This is a collection of exercises to practice various aspects of Ruby.
 
